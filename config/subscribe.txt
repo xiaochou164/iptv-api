@@ -9,6 +9,43 @@
 # https://www.iyouhun.com/tv/iptv-api/ipv6.m3u
 # https://www.iyouhun.com/tv/hotel_tvn.m3u
 # https://www.iyouhun.com/tv/klzb
+https://www.iyouhun.com/tv/zb
+https://live.zbds.top/tv/iptv4.txt
+https://develop202.github.io/migu_video/interface.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
+https://live.zbds.top/tv/iptv4.m3u
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://live.zbds.top/tv/iptv6.txt
+https://live.zbds.top/tv/iptv6.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://php.946985.filegear-sg.me/jackTV.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://web.utako.moe/jp.m3u
+https://epg.pw/test_channels.m3u
+https://epg.pw/test_channels_hong_kong.m3u
+https://epg.pw/test_channels_macau.m3u
+https://epg.pw/test_channels_taiwan.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
+https://epg.pw/test_channels_singapore.m3u
+https://epg.pw/test_channels_malaysia.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+https://live.freetv.top/huyayqk.m3u
+https://live.freetv.top/douyuyqk.m3u
+https://gongdian.top/tv/Mursor/yylunbo.m3u
+https://gongdian.top/tv/Mursor/bililive.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
